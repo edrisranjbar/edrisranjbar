@@ -1,10 +1,10 @@
 # 💫 About Me:
 Hi there ✋,
-I am Edris Ranjbar from Qeshm Island;
-I'm a back-end web developer who mostly works with PHP and python. I'm a YouTuber and I love learning and Team working. I have been coding for about 7 years since I was 16 years old.
+I am a back-end developer with experience in PHP and Python programming languages. I have been coding for 7 years and have a strong understanding of web development. I work remotely as a freelance developer and I'm always seeking new opportunities to enhance my skills and knowledge.
 
-I'm also a travel lover, I spend almost all of my weekends outdoor in the nature
-you can contact me on [edris.qeshm2@gmail.com](mailto:edris.qeshm2@gmail.com)
+In addition to my work in the tech industry, I am also a travel enthusiast and enjoy spending my weekends exploring nature. I believe in teamwork and collaboration, and I believe that a positive and constructive approach to problem-solving is key to success.
+
+If you would like to work together, please feel free to contact me at [edris.qeshm2@gmail.com](mailto:edris.qeshm2@gmail.com).
 
 
 ## 🌐 Socials:
