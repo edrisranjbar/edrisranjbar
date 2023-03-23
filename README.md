@@ -1,9 +1,6 @@
 # 💫 About Me:
 Hi there ✋,
 I am a back-end developer with experience in PHP and Python programming languages. I have been coding for 7 years and have a strong understanding of web development. I work remotely as a freelance developer and I'm always seeking new opportunities to enhance my skills and knowledge.
-
-In addition to my work in the tech industry, I am also a travel enthusiast and enjoy spending my weekends exploring nature. I believe in teamwork and collaboration, and I believe that a positive and constructive approach to problem-solving is key to success.
-
 If you would like to work together, please feel free to contact me at [edris.qeshm2@gmail.com](mailto:edris.qeshm2@gmail.com).
 
 
