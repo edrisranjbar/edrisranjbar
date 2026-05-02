@@ -3,14 +3,13 @@
 I'm a back-end web developer, teacher, and builder who loves creating meaningful software and exploring how technology can serve people better.
 Currently working on web, SaaS, and other projects with focus on Laravel, Django REST, and Flutter — and leading **itadbeer**, my software development team.
 
-![Edris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=edrisranjbar&show_icons=true&theme=radical)
-
-## 🔧 What I'm Working On:
-
 - 🚀 **Founder of [itadbeer](https://itadbeer.com)** – A software team focused on creating smart, niche web and mobile applications.  
   _"Powering your business with technology."_
 
-- 📿 **Nour Adhkar (اذکار نور)** – A spiritual and productivity project focused on daily remembrance and personal growth.
+## 🔧 What I'm Working On:
+
+- 📿 **Nour Adhkar (اذکار نور)** – A spiritual and productivity project focused on daily remembrance and personal growth.<br>
+  → [GitHub](https://github.com/edrisranjbar/nour-adhkar)
 
 - 💡 **Coolping** – A lightweight uptime monitoring and notification tool for developers.  
   → [GitHub](https://github.com/edrisranjbar/coolping)
