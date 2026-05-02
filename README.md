@@ -8,12 +8,15 @@ Currently working on web, SaaS, and other projects with focus on Laravel, Django
 ## 🔧 What I'm Working On:
 
 - 🚀 **Founder of [itadbeer](https://itadbeer.com)** – A software team focused on creating smart, niche web and mobile applications.  
-  _“Powering your business with technology.”_
+  _"Powering your business with technology."_
 
 - 📿 **Nour Adhkar (اذکار نور)** – A spiritual and productivity project focused on daily remembrance and personal growth.
 
 - 💡 **Coolping** – A lightweight uptime monitoring and notification tool for developers.  
   → [GitHub](https://github.com/edrisranjbar/coolping)
+
+- 🔗 **LinkKit** – A powerful link management and shortening solution.  
+  → [GitHub](https://github.com/edrisranjbar/linkkit)
 
 ## 🧰 My Tech Toolbox
 
@@ -43,4 +46,4 @@ I love working across different technologies and stacks to bring ideas to life.
 ---
 
 Thanks for visiting my profile! I'm always open to collaboration, learning, and building tools that make life easier.  
-Let’s connect and create something meaningful together 💫
+Let's connect and create something meaningful together 💫
