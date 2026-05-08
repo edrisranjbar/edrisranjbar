@@ -17,8 +17,11 @@ Currently working on web, SaaS, and other projects with focus on Laravel, Django
 - 🔗 **LinkKit** – A powerful link management and shortening solution.  
   → [GitHub](https://github.com/edrisranjbar/linkkit)
 
-- ⏳ **Soonify** - A **free, open source, modern** Coming Soon plugin for WordPress with full Persian (RTL) language support and local Vazir font integration. Perfect for Iranian WordPress sites under development.
+- ⏳ **Soonify** - A **free, open source, modern** Coming Soon plugin for WordPress with full Persian (RTL) language support and local Vazir font integration. Perfect for Iranian WordPress sites under development.<br>
   → [GitHub](https://github.com/edrisranjbar/soonify)
+
+- 🔐 **MyPassMaker** – An **open source** password generation and safety check python library (also avalible in Pypi).  
+  → [GitHub](https://github.com/edrisranjbar/mypassmaker)
 
 ## 🧰 My Tech Toolbox
 
