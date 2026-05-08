@@ -17,6 +17,9 @@ Currently working on web, SaaS, and other projects with focus on Laravel, Django
 - 🔗 **LinkKit** – A powerful link management and shortening solution.  
   → [GitHub](https://github.com/edrisranjbar/linkkit)
 
+- ⏳ **Soonify** - A **free, open source, modern** Coming Soon plugin for WordPress with full Persian (RTL) language support and local Vazir font integration. Perfect for Iranian WordPress sites under development.
+  → [GitHub](https://github.com/edrisranjbar/soonify)
+
 ## 🧰 My Tech Toolbox
 
 I love working across different technologies and stacks to bring ideas to life.
