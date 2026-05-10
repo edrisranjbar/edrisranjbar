@@ -1,4 +1,4 @@
-# Hey, I'm Edris Ranjbar — aka EdiCodes 👋
+# Hey, I'm Edi 👋
 
 I'm a back-end web developer, teacher, and builder who loves creating meaningful software and exploring how technology can serve people better.
 Currently working on web, SaaS, and other projects with focus on Laravel, Django REST, and Flutter — and leading **itadbeer**, my software development team.
